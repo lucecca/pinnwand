@@ -1,7 +1,7 @@
 # PINNWAND
 =========
 
-The aim of the role is to install pinnwand (a python pastebin webapp), alongside with mysql (as dbserver) and basic configuration for the pastebin app and a virtual host as reverse proxy. The webapp is run as an standard operating sytem user with a **/sbin/nologin** shell for security reason.
+The aim of the role is to install [pinnwand](https://pinnwand.readthedocs.io/en/latest/) (a python pastebin webapp), alongside with mysql (as dbserver) and basic configuration for the pastebin app and a virtual host as reverse proxy. The webapp is run as an standard operating sytem user with a **/sbin/nologin** shell for security reason.
 
 ## Requirements
 ------------
